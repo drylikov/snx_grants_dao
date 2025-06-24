@@ -18,6 +18,7 @@ After a proposal has been in the submission phase for 2 days, it enters the voti
 
 If a proposal did not receive enough votes within the voting phase, this function may be called in order to clean up the smart contract's storage and to unlock the funds associated with the proposal.
 
+
 ### Team Only
 
 #### `withdraw`
