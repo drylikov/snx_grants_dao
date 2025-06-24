@@ -36,6 +36,7 @@ Community members may be added to the contract so that new addresses can propose
 
 Community members may be removed by a team member from being able to vote or propose grants. An array of proposals may also be specified to have that member's vote removed.
 
+
 #### `addTeamMember`
 
 Team members may be added to the contract since all proposals need at least one team approving vote.
