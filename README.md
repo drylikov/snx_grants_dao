@@ -8,6 +8,7 @@
 
 This function allows proposers, which can be team or community members, the ability to create a prposal for funding of a receiver address for a specified amount. When the proposal is created, it is automatically counted as voted on by the proposer and assigned a unique number. Proposals remain in a submission phase for 2 days before they can be voted on.
 
+
 #### `voteProposal`
 
 After a proposal has been in the submission phase for 2 days, it enters the voting phase for the next 7 days. While in the voting phase, proposers may vote on the proposal. Community members may wish to withhold their votes in order to vote against a proposal. If a team member votes against a proposal, it is automatically deleted. Each proposal needs at least one team member to approve in order for the proposal to execute.
