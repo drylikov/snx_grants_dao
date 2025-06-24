@@ -13,6 +13,7 @@ This function allows proposers, which can be team or community members, the abil
 
 After a proposal has been in the submission phase for 2 days, it enters the voting phase for the next 7 days. While in the voting phase, proposers may vote on the proposal. Community members may wish to withhold their votes in order to vote against a proposal. If a team member votes against a proposal, it is automatically deleted. Each proposal needs at least one team member to approve in order for the proposal to execute.
 
+
 #### `deleteProposal`
 
 If a proposal did not receive enough votes within the voting phase, this function may be called in order to clean up the smart contract's storage and to unlock the funds associated with the proposal.
