@@ -1,0 +1,17 @@
+{
+  "name": "snx_grants_dao",
+  "version": "0.1.0",
+  "scripts": {
+    "test": "npx truffle test --migrations_directory migrations_null"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@openzeppelin/test-helpers": "^0.5.4",
+    "truffle": "^5.1.9"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.4.0",
+    "@truffle/hdwallet-provider": "^1.0.30",
+    "web3": "^1.2.5"
+  }
+}
