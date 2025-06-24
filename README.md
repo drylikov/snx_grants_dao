@@ -26,6 +26,7 @@ If a proposal did not receive enough votes within the voting phase, this functio
 
 If extra tokens need to be withdrawn from the contract, this method may be used to retrieve them. This can only be called by team members and will not allow balances to be pulled out which are locked in proposals.
 
+
 #### `addCommunityMember`
 
 Community members may be added to the contract so that new addresses can propose funding and vote on existing proposals.
